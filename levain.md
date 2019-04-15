@@ -10,15 +10,21 @@ au levain s'appelle le _rafraîchi_.
 Même si vous n'utilisez pas votre levain, il vous faut le rafraîchir pour le garder en vie. Pour
 cela, vous devez en doubler le poids périodiquement.
 
-> Exemple : si votre levain pèse 100g, vous devez ajouter
+> *Exemple*
+>
+> Si votre levain pèse 100g, vous devez ajouter :
 >
 > * 50g de farine
 > * 50g d'eau
 
 Si vous conservez votre levain à température ambiante, comptez un rafraîchi tous les 2 à 4 jours.
-Si vous le conservez au réfrigérateurs, toutes les deux semaines est suffisant (mais attention :
-le froid ne permet par le même développement de vos bactéries lactiques, en le mettant au froid,
-vous changez la composition de votre levain).
+
+Si vous le conservez au réfrigérateurs, toutes les deux semaines est suffisant.
+
+> *Note*
+>
+> Le froid ne permet par le même développement de vos bactéries lactiques : en mettant votre levain
+> au froid, vous en changez la composition.
 
 ### Rafraîchi pour faire du pain
 
