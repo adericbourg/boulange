@@ -1,7 +1,12 @@
 # Boulange
 
-* [Eau](eau.md)
-* [Levain](levain.md)
-* [Levain ou levure ?](levain-levure.md)
-* [Levain sec](levain-sec.md)
+## Démarrage rapide
+
+* [Réveiller un levain sec](levain-sec.md)
+* [Entretenir un levain](levain.md)
 * [Pain au levain (recette)](pain-au-levain.md)
+
+## Aller plus loin
+
+* [Eau](eau.md)
+* [Levain ou levure ?](levain-levure.md)
