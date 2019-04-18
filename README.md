@@ -9,6 +9,7 @@
 ## Aller plus loin
 
 * [Eau](eau.md)
+* [Étapes de la panification](etapes-panification.md)
 * [Levain ou levure ?](levain-levure.md)
 * [Que faire avec trop de levain ?](trop-de-levain.md)
 
