@@ -10,6 +10,7 @@
 
 * [Eau](eau.md)
 * [Levain ou levure ?](levain-levure.md)
+* [Que faire avec trop de levain ?](trop-de-levain.md)
 
 ---
 
