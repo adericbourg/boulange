@@ -5,9 +5,9 @@ donc passer de « juste assez de levain » à « beaucoup trop de levain 😱 »
 
 Que faire pour ne pas le jeter ?
 
-## Des cumpets
+## Des crumpets
 
-Les _cumpets_ sont des crêpes anglaises à base de levain. Elles se mangent
+Les _crumpets_ sont des crêpes anglaises à base de levain. Elles se mangent
 sucrées ou salées.
 
 Ingrédients :
