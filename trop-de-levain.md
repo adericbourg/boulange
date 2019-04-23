@@ -5,6 +5,17 @@ donc passer de « juste assez de levain » à « beaucoup trop de levain 😱 »
 
 Que faire pour ne pas le jeter ?
 
+## Des beignets
+
+* Diluez votre levain pour lui donner une consistance de pâte à crêpes et
+  assaisonez-le à votre goût (sel, poivres, épices...).
+* Faites des tranches d'oignon « pas trop fines » que vous trempez dans la
+  pâte.
+* Faites les frire dans une casserole d'huile chaude.
+
+Alternative : remplacez l'oignon par de la courgette râpée et essorée que vous
+mélangez à la pâte.
+
 ## Des crumpets
 
 Les _crumpets_ sont des crêpes anglaises à base de levain. Elles se mangent
