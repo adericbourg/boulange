@@ -2,7 +2,7 @@
 
 ## Rafraîchi
 
-Un levain est contitué d'organismes vivants qui doivent de nourrir. Apporter cette nourriture
+Un levain est contitué d'organismes vivants qui doivent se nourrir. Apporter cette nourriture
 au levain s'appelle le _rafraîchi_.
 
 ### Rafraîchi d'entretien
