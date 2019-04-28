@@ -13,6 +13,7 @@
 * [Levain ou levure ?](levain-levure.md)
 * [Maturité du levain en images](levain-maturite-images.md)
 * [Que faire avec trop de levain ?](trop-de-levain.md)
+* [Types de levain](levain-differents-types.md)
 
 ---
 
