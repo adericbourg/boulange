@@ -1,6 +1,15 @@
 title: "Notes de boulangerie"
 lang: fr_FR
+
 show_downloads: false
+
+# Front matter defaults
+defaults:
+- scope:
+    # All pages
+    path: ""
+  values:
+    image: "images/thumbnail.png"
 
 plugins:
 - jekyll-sitemap
