@@ -31,4 +31,5 @@ Si vous le conservez au réfrigérateurs, toutes les deux semaines est suffisant
 Avant de faire du pain, il est bon de stimuler le levain un peu plus (on parle d'augmenter
 l'activité fermentaire). Pour cela, on rapproche les raffraîchis pour en faire toutes les 6 à 12h.
 
-Le dernier rafraîchi est à faire entre 3 et 5 heures avant de commencer la pâte à pain.
+Le dernier rafraîchi est à faire entre 3 et 5 heures avant de commencer la pâte à pain. Si vous avez
+un doute, vous pouvez comparer l'aspect de votre levain à ces [photos de référence](levain-maturite-images.md).
