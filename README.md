@@ -2,9 +2,10 @@
 
 ## Démarrage rapide
 
-* [Démarrer son levain](levain-demarrer.md)
-* [Réveiller un levain sec](levain-sec.md)
-* [Entretenir un levain](levain-entretien.md)
+* Levain
+  * [Démarrer son levain](levain-demarrer.md)
+  * [Réveiller un levain sec](levain-sec.md)
+  * [Entretenir un levain](levain-entretien.md)
 * [Pain au levain (recette)](pain-au-levain.md)
 
 ## Aller plus loin
