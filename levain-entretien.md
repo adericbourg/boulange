@@ -1,13 +1,11 @@
-# Levain
-
-## Rafraîchi
+# Entretenir un levain
 
 Un levain est contitué d'organismes vivants qui doivent se nourrir. Apporter cette nourriture
 au levain s'appelle le _rafraîchi_.
 
 Un rafraîchi consiste à apporter de l'eau et de la farine au levain.
 
-### Rafraîchi d'entretien
+## Rafraîchi d'entretien
 
 Même si vous n'utilisez pas votre levain, il vous faut le rafraîchir pour le garder en vie. Pour
 cela, vous devez en doubler le poids périodiquement.
@@ -28,7 +26,7 @@ Si vous le conservez au réfrigérateurs, toutes les deux semaines est suffisant
 > Le froid ne permet par le même développement de vos bactéries lactiques : en mettant votre levain
 > au froid, vous en changez la composition.
 
-### Rafraîchi pour faire du pain
+## Rafraîchi pour faire du pain
 
 Avant de faire du pain, il est bon de stimuler le levain un peu plus (on parle d'augmenter
 l'activité fermentaire). Pour cela, on rapproche les raffraîchis pour en faire toutes les 6 à 12h.

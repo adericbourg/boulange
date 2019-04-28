@@ -3,7 +3,7 @@
 ## Démarrage rapide
 
 * [Réveiller un levain sec](levain-sec.md)
-* [Entretenir un levain](levain.md)
+* [Entretenir un levain](levain-entretien.md)
 * [Pain au levain (recette)](pain-au-levain.md)
 
 ## Aller plus loin

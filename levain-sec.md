@@ -11,4 +11,4 @@
 5. Ajouter 30g de farine et 30g d'eau.
 
 À ce stade, le levain est « réveillé ». Il est prêt à être utilisé comme un
-[levain liquide](levain.md).
+[levain liquide](levain-entretien.md).
