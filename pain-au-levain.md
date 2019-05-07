@@ -6,7 +6,7 @@ libre d'adaptation.
 Ingrédients pour un pain d'environ 1kg :
 
 * 720g de farine
-* 500g d'eau
+* 500g d'eau à 40ºC
 * 12g de sel
 * 155g de levain
 
