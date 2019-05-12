@@ -18,7 +18,7 @@ C'est le moment idéal pour l'utiliser et faire du pain.
 
 ## Redescente
 
-Une fois le maximum de pousse atteint, les bactéries ralentissent puis cèssent leur
+Une fois le maximum de pousse atteint, les bactéries ralentissent puis cessent leur
 développement. Le levain redescend petit à petit. Sa surface se creuse et prend un
 aspect bosselé. Les bulles se font plus discrètes et leur diamètre diminue.
 
@@ -33,6 +33,6 @@ Le levain finit par retomber totalement. Les bulles sont de plus en plus diffici
 à distinguer.
 
 À ce stade, il est trop tard pour utiliser le levain pour faire du pain : son activité
-fermentaire sera trop faible. Pour l'utiliser, un rafraîchi supplémentaire est nécesaire.
+fermentaire sera trop faible. Pour l'utiliser, un rafraîchi supplémentaire est nécessaire.
 
 ![Aspect du levain retombé](images/levain-04-trop-tard.png)

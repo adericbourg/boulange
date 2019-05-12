@@ -11,7 +11,7 @@ qui sont responsables de la levée du pain.
 Le *levain*, lui, est obtenu par la fermentation spontanée de la farine associée à de l'eau. La
 fermentation est provoquée par les bactéries (_lactobacilles_) et les levures naturellement
 présentes dans le grain de la céréale. Il s'agit d'une *fermentation lactique* : le sucre est
-« transformé » en acides (c'est pour celà que certains pains au levain sont acides).
+« transformé » en acides (c'est pour cela que certains pains au levain sont acides).
 
 Le levain présente ces avantages par rapport à la levure :
 

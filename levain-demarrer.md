@@ -9,7 +9,7 @@ semi-complète) mais une farine complète ou intégrale convient tout à fait.
 ## Étapes
 
 Dans un récipient propre et idéalement transparent (pour permettre d'en observer facilement
-le développenement) :
+le développement) :
 
 1. Verser 20g d'eau
 2. Ajouter 20g de farine
@@ -29,7 +29,7 @@ Certains boulangers parlent d'ajouter du miel dans le levain. Celui-ci présente
 les avantages suivants :
 
 * il est naturellement antiseptique et limite le développement de microbes indésirables ;
-* il est riche en sucres, ce qui stumimule le développement du levain en apportant une
+* il est riche en sucres, ce qui stimule le développement du levain en apportant une
   énergie rapide aux bactéries et aux levures.
 
 Au delà de ces avantages, le miel modifie l'équilibre microbiologique :

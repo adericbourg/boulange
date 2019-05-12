@@ -1,6 +1,6 @@
 # Entretenir un levain
 
-Un levain est contitué d'organismes vivants qui doivent se nourrir. Apporter cette nourriture
+Un levain est constitué d'organismes vivants qui doivent se nourrir. Apporter cette nourriture
 au levain s'appelle le _rafraîchi_.
 
 Un rafraîchi consiste à apporter de l'eau et de la farine au levain.
