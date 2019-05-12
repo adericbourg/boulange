@@ -18,7 +18,8 @@ Façonner légèrement et laisser reposer 1h30 en banneton.
 Cuisson :
 
 * Préchauffage à 260ºC
-* Enfournement à 225ºC en jetant un petit verre d'eau sur la sole
+* Enfournement à 225ºC en jetant un petit verre d'eau sur la sole (ne *pas* utiliser
+  la chaleur tournante)
 * Évacuation de la buée (ouverture de la porte du four) après 20min
 * Durée totale de cuisson : 45min
 
