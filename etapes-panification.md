@@ -2,17 +2,17 @@
 
 Un pain se réalise en plusieurs étapes :
 
- 1. Frasage
- 2. Pétrissage
- 3. Pointage
- 4. Division
- 5. Boulage
- 6. Détente
- 7. Façonnage
- 8. Apprêt
- 9. Grignage
-10. Cuisson
-11. Ressuage
+ 1. [Frasage](#frasage)
+ 2. [Pétrissage](#pétrissage)
+ 3. [Pointage](#pointage)
+ 4. [Division](#division-boulage-détente)
+ 5. [Boulage](#division-boulage-détente)
+ 6. [Détente](#division-boulage-détente)
+ 7. [Façonnage](#division-boulage-détente)
+ 8. [Apprêt](#apprêt)
+ 9. [Grignage](#grignage)
+10. [Cuisson](#cuisson)
+11. [Ressuage](#ressuage)
 
 ## Frasage
 
