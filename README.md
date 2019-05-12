@@ -10,6 +10,7 @@
 
 ## Aller plus loin
 
+* [Chronologie d'une panification au levain](antechronologie.md)
 * [Eau](eau.md)
 * [Étapes de la panification](etapes-panification.md)
 * [Levain ou levure ?](levain-levure.md)
