@@ -21,3 +21,6 @@ Cuisson :
 * Enfournement à 225ºC en jetant un petit verre d'eau sur la sole
 * Évacuation de la buée (ouverture de la porte du four) après 20min
 * Durée totale de cuisson : 45min
+
+Une fois cuit, laissez le pain refroidir sur une grille pour lui permettre de
+[ressuer](etapes-panification.md#ressuage).
