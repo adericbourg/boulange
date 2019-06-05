@@ -1,5 +1,11 @@
 # Boulange
 
+> Ces notes sont issues de mon expérience personnelle. Au lieu de les garder pour moi,
+> je les partage humblement avec l'idée qu'elles puissent servir à d'autres.
+>
+> Je n'ai pas vocation à faire de ces notes une encyclopédie ni la prétention de détenir
+> la vérité. Je ne suis d'ailleurs pas boulanger mais un simple amateur.
+
 ## Démarrage rapide
 
 * Levain
