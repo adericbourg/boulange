@@ -31,3 +31,13 @@ Cuisson à feux moyen pendant 5 min environ dans une poêle graissée, idéaleme
 dans un cercle préalablement chauffé dans la poêle.
 
 Les crumpets sont réussis et cuits quand le dessus est « bulleux » et solide.
+
+## Des pâtes
+
+* 50g de levain
+* 400g de farine
+* 3 à 4 œufs
+
+Étaler la pâte, la découper en lanières et la laisser sécher.
+
+Ajouter de l'eau rend la pâte cassante. Il est préférable de ne pas en utiliser.
