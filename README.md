@@ -23,6 +23,7 @@
 * [Maturité du levain en images](levain-maturite-images.md)
 * [Que faire avec trop de levain ?](trop-de-levain.md)
 * [Types de levain](levain-differents-types.md)
+* [Levain : questions et réponses](levain-questions-reponses.md)
 
 ---
 
