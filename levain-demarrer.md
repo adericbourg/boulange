@@ -23,6 +23,10 @@ Vous pouvez maintenant :
 * En cas de doute, vous pouvez le comparer aux
   [photos de étapes de fermentation d'un levain](levain-maturite-images.md)
 
+> Il faut environ deux semaines à un levain nouvellement démarré pour atteindre sa
+> maturité microbienne. Pour qu'il s'exprime pleinement, rafraîchissez-le au cours de
+> ces deux premières semaines mais ne l'utilisez qu'à leur issue.
+
 ## À propos du miel
 
 Certains boulangers parlent d'ajouter du miel dans le levain. Celui-ci présente en effet
