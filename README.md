@@ -20,6 +20,8 @@
   * [Chronologie d'une panification au levain](antechronologie.md)
   * [Étapes de la panification](etapes-panification.md)
 * [Eau](eau.md)
+* Farine
+  * [Types de farine](farine-type.md)
 * Levain
   * [Levain ou levure ?](levain-levure.md)
   * [Maturité du levain en images](levain-maturite-images.md)
