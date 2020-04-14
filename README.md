@@ -16,14 +16,16 @@
 
 ## Aller plus loin
 
-* [Chronologie d'une panification au levain](antechronologie.md)
+* Panification
+  * [Chronologie d'une panification au levain](antechronologie.md)
+  * [Étapes de la panification](etapes-panification.md)
 * [Eau](eau.md)
-* [Étapes de la panification](etapes-panification.md)
-* [Levain ou levure ?](levain-levure.md)
-* [Maturité du levain en images](levain-maturite-images.md)
-* [Que faire avec trop de levain ?](trop-de-levain.md)
-* [Types de levain](levain-differents-types.md)
-* [Levain : questions et réponses](levain-questions-reponses.md)
+* Levain
+  * [Levain ou levure ?](levain-levure.md)
+  * [Maturité du levain en images](levain-maturite-images.md)
+  * [Que faire avec trop de levain ?](trop-de-levain.md)
+  * [Types de levain](levain-differents-types.md)
+  * [Levain : questions et réponses](levain-questions-reponses.md)
 
 ---
 
