@@ -39,7 +39,7 @@ Le _pétrissage_ consiste à étirer et à replier la pâte sur elle-même, manu
 mécaniquement. Il vise à :
 
 * homogénéiser le mélange ;
-* donner à la pâte son élasticité en déroulant et à orientant les protéines du blé (le gluten)
+* donner à la pâte son élasticité en déroulant et en orientant les protéines du blé (le gluten)
   afin d'en former un réseau dont dépendra la structure alvéolaire de la mie.
 
 Un excès de pétrissage peut provoquer une rupture du réseau de gluten et lui faire perdre toute
